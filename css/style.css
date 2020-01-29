@@ -1,0 +1,127 @@
+body {
+    background-color: #82FFA0;
+    margin: 0%;
+}
+
+.title {
+    text-align: center;
+}
+
+.nintys {
+    width: 40%;
+    font-size: 130%;
+    float: left;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #6FEBE5;
+}
+
+.nintysimage {
+    float: left;
+    width: 40%;
+    padding-right: 5%;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #6FEBE5;
+}
+
+.nintysimage img {
+    width: 505px;
+}
+
+.twothous {
+    float: left;
+    width: 50%;
+    font-size: 140%;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #9EC3FF;
+}
+
+.twothousimage img {
+    width: 462px;
+}
+
+.twothousimage {
+    float: left;
+    width: 30%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #9EC3FF;
+}
+
+.tens {
+    float: left;
+    font-size: 165%;
+    width: 45%;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #A184E8;
+}
+
+.tensimage {
+    float: left;
+    width: 45%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #A184E8;
+}
+
+.tensimage img {
+    width: 545px;
+}
+
+.eighties {
+    float: left;
+    width: 50%;
+    font-size: 140%;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #9EC3FF;
+}
+
+.eightiesimage {
+    float: left;
+    width: 30%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #9EC3FF;
+}
+
+.eightiesimage img {
+    width: 495px;
+}
+
+.seventies {
+    width: 40%;
+    font-size: 130%;
+    float: left;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #6FEBE5;
+}
+
+.seventiesimage {
+    float: left;
+    width: 40%;
+    padding-right: 5%;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #6FEBE5;
+}
+
+.seventiesimage img {
+    width: 430px;
+}
